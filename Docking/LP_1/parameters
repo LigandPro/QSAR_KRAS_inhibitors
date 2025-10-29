@@ -1,9 +1,0 @@
-Date: Mon 29 Sep 2025 06:07:04 
-Ligand: OC1=CC(=C(C=C1)C#C)C1=NC=C2C(=NC(OCC34CCCN3CCC4)=NC2=C1F)N1CC2CCC(C1)N2
-Method: AC
-Target: 7t47_only_protein_chimera.pdb
-Sampling exhaustivity: 90
-Cavity prioritization: 70
-Random Initial Conditions: 2
-Box size: 15 15 15
-Box center: -23.0 5.14 23.02
