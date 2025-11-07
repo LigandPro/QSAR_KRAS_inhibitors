@@ -1,0 +1,45 @@
+name smarts
+hexachlorononbornene [CH1]1[CH1]C2(Cl)C(Cl)=C(Cl)C1(Cl)C2(Cl)Cl
+cyano-(3-phenoxyphenyl)methoxy [#8]-[#6](C#N)-c1cccc(-[#8]-c2ccccc2)c1
+tetrafluorobenzyloxy [OH0][CH2]c1c(F)c(F)[cH0]c(F)c1(F)
+bis(4-chlorophenyl)methyl Clc1ccc(-[#6]-c2ccc(Cl)cc2)cc1
+2-(2,4-dichlorophenoxy)acetyl [cH]1[cH]c(O[CH2][CX3]=O)c(Cl)[cH]c1Cl
+dinitrophenoxy c1cc(O)c([#7X3](~[#8X1])(~[#8X1]))cc1([#7X3](~[#8X1])(~[#8X1]))
+2-trifluoromethylbenzimidazole FC(F)(F)c1nc2ccccc2n1
+2-fluoroacetyl F[CH2][CX3]=O
+phosphoryl [PX4H0](=O)([OH0])([OH0])[OH0]
+"phosphoryl fluoride" "[$([PX4H0]([!#8])(F)(=O)[OH0])] (F)(=O)[OH0]"
+phosphorothionate [$([OH0]P(=S)([OH0])[OH0])]P(=S)([OH0])[OH0]
+phosphorodithioate [$([SX2H0]P(=S)([OH0])[OH0])]P(=S)([OH0])[OH0]
+phosphoramidate [$([NX3]([!H])P(=O)([OH0])[OH0])]P(=O)([OH0])[OH0]
+dibenzo-1,4-dioxin [F,Cl,Br,I,#1]-c1c(-[F,Cl,Br,I,#1])c(-[F,Cl,Br,I,#1])c2[#8]c3c(-[F,Cl,Br,I,#1])c(-[F,Cl,Br,I,#1])c(-[F,Cl,Br,I,#1])c(-[F,Cl,Br,I,#1])c3[#8]c2c1-[F,Cl,Br,I,#1]
+4-hydroxycoumarin O=C1Oc2ccccc2C=C1
+1,3-indandione C1C(=O)c2ccccc2C1=O
+thiourea [NX3;!R][CX3;!R](=[SX1])[NX3;!R]
+1-carboximidoylpiperazine [NR1X3]1[CX4R1][CX4R1][NX3R1]([CX3]=[NX2])[CX4R1][CX4R1]1
+"3-(piperazin-1-yl)propan-1-amine " [NR1X3]1[CX4R1][CX4R1][NX3R1]([CH2R0][CH2R0][CH2R0][NX3R0])[CX4R1][CX4R1]1
+phenylpiperazine [NR1X3]1[CX4R1][CX4R1][NX3R1](c2ccccc2)[CX4R1][CX4R1]1
+pyridylpiperazine [NR1X3]1[CX4R1][CX4R1][NX3R1](c2ncccc2)[CX4R1][CX4R1]1
+carbamate [$(N([!H])C(=O)[OH0])]C(=O)[OH0]
+O-(methylaminocarbonyl)oxime [CX4]NC(=O)ON=C
+4-phenylpiperidine [NR1X3]1[CX4R1][CX4R1][CX4R1](c2ccccc2)[CX4R1][CX4R1]1
+4-phenylaminopiperidine [NR1X3]1[CX4R1][CX4R1][CX4R1]([NX3]c2ccccc2)[CX4R1][CX4R1]1
+O,O-diethylphosphorodithionate CCOP(=S)(OCC)SC([*:1])
+"O-phenyl phenylphosphonothioate" S=P(O([*:1]))(Oc1ccc([*:1])cc1)c1ccccc1
+"O-phenyl phosphonothioate" S=P(O([*:1]))(O([*:1]))Oc1ccc([*:1])cc1
+O,O-diethylphosphorothionate CCOP(=S)(O([*:1]))OCC
+O,O-diethylphosphoryl COP(=O)(O([*:1]))OC
+"2,2-dimethyl-2,3-dihydro-1-benzofuran-7-yl N-(aminosulfanyl)-N-methylcarbamate" CN(SN([*:1])([*:1]))C(=O)Oc1cccc2CC(C)(C)Oc12
+"phenyl carbamate" O=C(N([*:1]))Oc1ccccc([*:1])1
+"methyl(propoxysulfanyl) carbamate" [#6]-[#7](-[#16]-[#8]-[#6]-[#6]-[#6]-*)-[#6](=O)-[#8]-*
+dimethylcarbamate CN(C)C(=O)O([*:1])
+2,4-dichloro-benzene-1,3-dicarbonitrile N#Cc1c([*:1])c([*:1])c(Cl)c(C#N)c1Cl
+cyclopentane [#6]-1-[#6]-[#6]-[#6]-[#6]-1
+1-benzofuran c1cc2ccccc2o1
+Phenothiazine *-[#7]-1-c2ccccc2-[#16]-c2ccccc-12
+1H-indole c1cc2ccccc2n1
+4,5-dihydro-3H-2,3-benzodiazepine [#6]-1-[#6]-c2ccccc2-[#6]=[#7]-[#7]-1
+Pyridazine c1ccnnc1
+Anthracyclines Oc1c2CCCCc2c(O)c2C(=O)c3ccccc3C(=O)c12
+Aconitine [#6]-[#6]-[#7]-1-[#6]C2([#6]-[#8]-[#6])[#6]3-[#6](-[#8]-[#6])-[#6]4-[#6]-1C3([#6]-1-[#6]C3([#8])[#6](-[#8]-[#6](=O)-[#6]-5=[#6]-[#6]=[#6]-[#6]=[#6]-5)-[#6]-1C4([#8]-[#6](-[#6])=O)[#6](-[#8])-[#6]3-[#8]-[#6])[#6](-[#6]-[#6]2-[#8])-[#8]-[#6]
+Barbiturates *C1(*)[#6](=O)-[#7]-[#6](=O)-[#7]-[#6]1=O
